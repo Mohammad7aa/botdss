@@ -1,0 +1,6 @@
+﻿token=  NjIyNDAxMTMxMjI1ODA4OTQ3.XXzWWA.MowDJqI3YuvQ8OGwNEFfHPZMZ20
+owner= 600369127907131412
+prefix=2
+game= BlackSide 
+stayinchannel=true
+songinstatus=false 
